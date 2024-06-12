@@ -1,0 +1,8 @@
+{
+  "fullPageTitle": "Return request",
+  "welcome": "Welcome to {{target}} target of your customer account UI extension!",
+  "menuItemButton": "Full page",
+  "menuItem": {
+    "button": "Return"
+  }
+}
